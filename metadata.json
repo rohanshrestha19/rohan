@@ -1,0 +1,7 @@
+{
+  "name": "UrbanWear",
+  "description": "A premium, modern shoe eCommerce platform featuring sneakers, sports, and casual collections with a seamless shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
